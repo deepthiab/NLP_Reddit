@@ -5,7 +5,6 @@
  
 - [Problem Statement](#Problem-Statement)  
 - [Data](#Data)
-- [Data Dictionary](#Data-Dictionary)
 - [Data Analysis](#Data-Analysis)
 - [Interesting Observations](#Interesting-Observations)
 
@@ -16,15 +15,17 @@ This project aims to predict if a post is from 'movies' subreddit or 'books' sub
 
 
 ## Data
+[Notebook for data download](download_data.ipynb)
 
 Use Pushshift API to download posts from Reddit:
 
 1. Books
 2. Movies
-    
+
+
 
 ## Data Analysis:
-
+[Notebook for EDA and models](EDA_Models.ipynb)
 **Data Cleaning**
 - Only the post itself was used as our feature
 - Null, [removed] and [deleted] values were dropped.
