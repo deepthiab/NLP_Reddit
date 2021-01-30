@@ -26,6 +26,7 @@ Use Pushshift API to download posts from Reddit:
 
 ## Data Analysis:
 [Notebook for EDA and models](EDA_Models.ipynb)
+
 **Data Cleaning**
 - Only the post itself was used as our feature
 - Null, [removed] and [deleted] values were dropped.
