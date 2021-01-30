@@ -7,7 +7,7 @@
 - [Data](#Data)
 - [Data Dictionary](#Data-Dictionary)
 - [Data Analysis](#Data-Analysis)
-- [Interesting Observations](#Interesting Observations)
+- [Interesting Observations](#Interesting-Observations)
 
 
 ## Problem Statement:
