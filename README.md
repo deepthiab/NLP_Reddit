@@ -16,7 +16,7 @@ Applications include being able to sort customer commmunication to appropriate t
 
 
 ## Data
-[Notebook for data download](download_data.ipynb)
+[Notebook for data download](code/download_data.ipynb)
 
 Use Pushshift API to download posts from Reddit:
 
@@ -26,7 +26,7 @@ Use Pushshift API to download posts from Reddit:
 
 
 ## Data Analysis:
-[Notebook for EDA and models](EDA_Models.ipynb)
+[Notebook for EDA and models](code/EDA_Models.ipynb)
 
 **Data Cleaning**
 - Only the post itself was used as our feature
